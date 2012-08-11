@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:phillysct	= "http://phillysct.com/ns/1.0"
+	id		= "com.phillysct.top"
+	version 	= "1.0.0">
+
+	<name>A Taste of Philadelphia</name>
+
+	<description>
+    Have you had a real cheesesteak? Want one?? Well look no further! Finally you have an option. We know how difficult and expensive it is to travel in these times so instead of going to Philly we have brought “A Taste of Philadelphia” to you!! At Philly’s we are dedicated to bringing you a genuine Philly experience.
+  </description>
+
+	<author href="http://www.afsigma.com"
+		email="andre@afsigma.com">
+		Andre Ferreira
+	</author>
+
+	<icon src="icon.png" phillysct:role="default" />
+
+	
+	<preference name="orientation" value="portrait" />
+</widget>
